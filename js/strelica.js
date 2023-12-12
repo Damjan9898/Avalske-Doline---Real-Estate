@@ -1,0 +1,1 @@
+var strela=document.getElementById("strelica");function arrowFunction(){200<document.body.scrollTop||200<document.documentElement.scrollTop?strela.style.display="block":strela.style.display="none"}function topFunction(){document.body.scrollTop=0,document.documentElement.scrollTop=0}window.onscroll=function(){arrowFunction()},window.onscroll=function(){arrowFunction()};
