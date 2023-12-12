@@ -15,3 +15,25 @@
 # Running the Website
 
 The website is designed with simplicity and user experience in mind, utilizing modern web development practices. Its responsive design ensures that it is accessible and navigable on a variety of devices, from desktops to smartphones.
+
+## Screenshots of main parts of the Web Application
+
+<h3>1) Home Page - Initial View</h3>
+
+  ![ad_1](https://github.com/Damjan9898/Avalske-Doline---Real-Estate/assets/73915350/ab42f73e-c537-41ad-847f-d5ec55a75cf2)
+
+<h3>2) Home Page - Campus Info</h3>
+
+  ![ad_2](https://github.com/Damjan9898/Avalske-Doline---Real-Estate/assets/73915350/f15ab195-dca7-4282-9b0a-923814a576ff)
+
+<h3>3) Contact form</h3>
+
+  ![ad_3](https://github.com/Damjan9898/Avalske-Doline---Real-Estate/assets/73915350/8dca94a4-76bd-46f0-a06f-f8919877bd4b)
+
+<h3>4) Property Info</h3>
+
+  ![ad_4](https://github.com/Damjan9898/Avalske-Doline---Real-Estate/assets/73915350/ac54c600-6278-4427-9e8c-ae97fbc597b4)
+
+<h3>5) Part of the property page</h3>
+
+  ![ad_5](https://github.com/Damjan9898/Avalske-Doline---Real-Estate/assets/73915350/e7ebf955-bbfe-486f-91ec-f7cb62f003d5)
